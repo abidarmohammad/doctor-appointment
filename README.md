@@ -80,7 +80,11 @@ Stripe API
 Git & GitHub
 
 Screenshots
-
+![Home Page](./assets/home.png)
+![Contact Page](./assets/contact.png)
+![About Us Page](./assets/about.png)
+![Login Page](./assets/login.png)
+![Admin Dashboard](./assets/dashboard.png)
 Home Page
 [Insert image: ./assets/home.png]
 
