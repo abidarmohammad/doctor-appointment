@@ -1,2 +1,3 @@
 # doctor-appointment
-🦷 MERN Dental Appointment Booking System — Role-based web app for managing dental appointments with dashboards(admin,doctor,assistant), analytics, payments, invoice creation
+🦷 MERN-based doctor booking system with dashboards(admin,doctor,assistant), charts,analytics, stripe payments, invoice creation, Prisma,Postgresql,claudinary
+
